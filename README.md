@@ -1,4 +1,4 @@
-# 🚀 DSA in Python  
+# 📘 DSA in Python  
 
 A clean and well-structured collection of **Data Structures and Algorithms (DSA)** implemented in Python.  
 Designed for **quick interview preparation** and **strong problem-solving foundation**.  
