@@ -1,20 +1,26 @@
 # 🚀 DSA in Python  
 
-This repository contains **Python implementations** of core Data Structures and Algorithms.  
-Each topic is covered with clean and simple code for easy understanding.  
-
-## 📂 Topics
-- Arrays & Strings  
-- Linked List  
-- Stack & Queue  
-- Trees & Graphs  
-- Recursion & Backtracking  
-- Searching & Sorting  
-- Dynamic Programming  
-
-## 🎯 Purpose
-- Strengthen problem-solving skills  
-- Prepare for coding interviews  
+A clean and well-structured collection of **Data Structures and Algorithms (DSA)** implemented in Python.  
+Designed for **quick interview preparation** and **strong problem-solving foundation**.  
 
 ---
-⭐ Star this repo if you find it helpful!
+
+## 📂 Topics Covered
+✅ Arrays & Strings  
+✅ Linked List  
+✅ Stack & Queue  
+✅ Trees & Graphs  
+✅ Recursion & Backtracking  
+✅ Searching & Sorting  
+✅ Dynamic Programming  
+
+---
+
+## 🎯 Why This Repo?
+- 🧠 Strengthen problem-solving skills  
+- 💼 Prepare for coding interviews with confidence  
+- ⚡ Quick reference for revision  
+
+---
+
+⭐ *Simple. Clean. Effective.*  
